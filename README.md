@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/hVwPP3K/case-to-case.png)
 
-#### Installation
+#### Installation ([Try it on StackBlitz](https://stackblitz.com/edit/typescript-g894yk?file=index.ts))
 
 ```
 npm i case-to-case
